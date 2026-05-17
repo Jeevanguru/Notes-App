@@ -17,8 +17,8 @@ Backend API: https://notes-app-v6r8.onrender.com
 ```bash
 notes-app/
 │
-├── notes-web-app-client/      # Frontend (React + Vite)
-├── notes-web-app-server/      # Backend (Node.js + Express)
+├── frontend/      # Frontend (React + Vite)
+├── backend/      # Backend (Node.js + Express)
 └── README.md
 ```
 
