@@ -6,7 +6,7 @@ A full-stack Notes Application built using React, Vite, Node.js, Express, and Mo
 
 # 🚀 Live Demo
 
-Frontend: https://notes-app-two-red.vercel.app/login
+Frontend: https://notes-app-two-red.vercel.app
 
 Backend API: https://notes-app-v6r8.onrender.com
 
